@@ -1,0 +1,32 @@
+body {
+font-family: arial, sans-serif;
+background:  #0f0f0f;
+paddyng: 20px;
+text-align: center;
+}
+
+
+.VIDEO-BOX{
+    background:  #A62121;
+    PADDING; 10PX;
+    BORDER-RADIUS:6PX;
+    max-width; 560 px
+    margin: auto;
+    box- sandow: 0 2px 5px  rgba(0,0,0,0.1;)
+}
+video{
+    width: 100%;
+    border-radius: 4px;
+}
+.info {
+    margin-top: 8 px ;
+}
+.info h3 {
+    font-size: 16 px;
+    margin:  4px
+    color:  #002f6c;
+}
+.info p {
+    font-sinze: 13px;
+    color: #e0dfdf;
+}
